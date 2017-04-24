@@ -1,3 +1,15 @@
+*.DS_Store
+target
+.classpath
+.project
+.settings
+.idea
+*.iml
+rebel.xml
+derby.log
+
+
+
 *.class
 
 # Mobile Tools for Java (J2ME)
